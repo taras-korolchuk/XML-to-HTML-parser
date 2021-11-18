@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<timetable>
+    <teacher>
+        <fullname>П'яний Олег Богданович</fullname>
+        <faculty>Факультет кібернетики</faculty>
+        <cathedra>Кафедра комп'ютерних наук</cathedra>
+        <classNumber>228</classNumber>
+        <students>K15 K17</students>
+
+    </teacher>
+    <teacher>
+       <fullname>Стакан Сергій Стеапнович</fullname>
+        <faculty>Факультет кібернетики</faculty>
+        <cathedra>Кафедра комп'ютерних наук</cathedra>
+        <classNumber>227</classNumber>
+        <students>K14 K16</students>
+
+    </teacher>
+    <teacher>
+        <fullname>Стопка Ярослав Анатолієвич</fullname>
+        <faculty>Факультет кібернетики</faculty>
+        <cathedra>Кафедра комп'ютерних наук</cathedra>
+        <classNumber>228</classNumber>
+        <students>K15 K14</students>
+
+    </teacher>
+    <teacher>
+       <fullname>Рюмка Андрій Миколайович</fullname>
+        <faculty>Факультет кібернетики</faculty>
+        <cathedra>Кафедра комп'ютерних наук</cathedra>
+        <classNumber>228</classNumber>
+        <students>K16 K17</students>
+
+    </teacher>
+    <teacher>
+       <fullname>Наливайко Петро Степанович</fullname>
+        <faculty>Факультет кібернетики</faculty>
+        <cathedra>Кафедра комп'ютерних наук</cathedra>
+        <classNumber>226</classNumber>
+        <students>K15 K16</students>
+    </teacher>
+</timetable>
